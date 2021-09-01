@@ -1,6 +1,8 @@
 # Where is my pointer
 This script encircles the pointer with a large yellow square that shrinks towards the pointer.
 
+I script ought to be runed with the ```timeout``` command.
+
 ## Build
 Requires libX11
 ```sh
